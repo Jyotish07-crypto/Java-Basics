@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class Pairs_Array {
     public static void pairs(int arr[]){

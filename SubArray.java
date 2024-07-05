@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class SubArray {
     public static void Sub(int arr[])

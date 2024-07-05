@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class Binary_Search {
     public static int Binary(int arr[],int key)

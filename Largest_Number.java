@@ -1,4 +1,4 @@
-package Arrays;
+package Array;
 
 public class Largest_Number {
     public static int find_larger(int arr[])
